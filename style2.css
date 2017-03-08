@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+#img2 {
+	height: 22px;
+	width: 30px;
+	float: right;
+	display: inline-block;
+	
+}
+
+#input {
+	height: 25px;
+}
+
+.p1{
+	display: inline;
+}
+
+.font{
+       font-size: 200%;
+}
+
+div{
+	margin-left:2%;
+}
+
+#img1 {
+
+	width: 30%;
+	height:40%;
+
